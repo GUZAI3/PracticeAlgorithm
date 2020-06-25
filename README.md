@@ -1,2 +1,2 @@
 # PracticeAlgorithm
-Paste the algorithm that I studied.
+Paste the algorithm that GUZAI3 studied.
