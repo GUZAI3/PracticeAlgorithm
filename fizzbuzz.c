@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int end = 128;  // Maximum value for which GUZAI3 want to calculate fizzbuzz.
+  int end = 128;  // Maximum value for calculation of fizzbuzz.
 
   for (int n = 1; n < end; n++) {
     if (n % 15 == 0) {
